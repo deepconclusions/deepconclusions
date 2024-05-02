@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "deepconclusions"
+  site-url: "https://deepconclusions.github.io/deepconclusions"
+  description: "courses site"
+  repo-branch: main
+  repo-url: "https://github.com/deepconclusions/deepconclusions"
