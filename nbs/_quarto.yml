@@ -14,33 +14,28 @@ website:
   page-navigation: true
   back-to-top-navigation: true
   reader-mode: true
-  favicon: assets/dataidea-logo.png
   navbar:
     background: primary
     search: true
     right:
       - text: Home
-        href: 'https://www.dataidea.org/'
+        href: "https://www.deepconclusions.com/"
       - text: About
-        href: 'https://courses.dataidea.org/about'
+        href: "https://www.deepconclusions.com/about"
       - text: Download
         menu:
-        - text: Python 3 Beginner
-          url: 'https://api.dataidea.org/school/download-course-material/1'
-        - text: Python Data Analysis
-          url: 'https://api.dataidea.org/school/download-course-material/2'
-      - text: Resources
-        menu:
-        - text: Blog
-          url: 'https://blog.dataidea.org'
-        - text: Forum
-          url: 'https://chat.whatsapp.com/GuCZRyJICgO3Y7MPvDQKhi'
+          - text: Python 3 Beginner
+            url: "https://api.dataidea.org/school/download-course-material/1"
+          - text: Python Data Analysis
+            url: "https://api.dataidea.org/school/download-course-material/2"
+      - text: Blog
+        href: "https://deepconclusions.com/blogs"
       - text: Contact
-        href: 'https://courses.dataidea.org/contact'
+        href: "https://deepconclusions.com/contact"
   sidebar:
     style: "floating"
     twitter-card:
     creator: "@juma_shafara"
     site: "@datas_idea"
 
-metadata-files: [nbdev.yml,sidebar.yml]
+metadata-files: [nbdev.yml, sidebar.yml]
