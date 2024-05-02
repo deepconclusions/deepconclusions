@@ -22,12 +22,6 @@ website:
         href: "https://www.deepconclusions.com/"
       - text: About
         href: "https://www.deepconclusions.com/about"
-      - text: Download
-        menu:
-          - text: Python 3 Beginner
-            url: "https://api.dataidea.org/school/download-course-material/1"
-          - text: Python Data Analysis
-            url: "https://api.dataidea.org/school/download-course-material/2"
       - text: Blog
         href: "https://deepconclusions.com/blogs"
       - text: Contact
